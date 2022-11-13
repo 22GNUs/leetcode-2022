@@ -217,3 +217,7 @@ cython_debug/
 #.idea/
 
 test.DSYM/*
+
+node_modules
+package.json
+package-lock.json
